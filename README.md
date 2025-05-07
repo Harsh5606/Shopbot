@@ -1,2 +1,2 @@
 # Shopbot
-Shopbot Done by Harsh Upadhye, Parshwa Bhandari, Sumit Bafna
+Shopbot Done by Harsh Upadhye
